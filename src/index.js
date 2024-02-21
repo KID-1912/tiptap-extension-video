@@ -1,2 +1,3 @@
-export { default as video } from "./video.js";
+import video from "./video.js";
+export { video };
 export default video;

@@ -1,6 +1,6 @@
 {
   "name": "tiptap-extension-video",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiptap extension for inserting video.",
   "main": "src/index.js",
   "scripts": {
